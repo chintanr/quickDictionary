@@ -1,0 +1,6 @@
+1. Unzip the folder 
+2. Open folder path in cmd/terminal 
+3. run command 
+    npm install
+4. run command
+    npm start
